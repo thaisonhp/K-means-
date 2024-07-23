@@ -19,6 +19,7 @@ git clone https://github.com/thaisonhp/K-means-.git
 
 ```bash
 cd K-means-
+```
 
 ### Install Requirment 
 ```bash 
