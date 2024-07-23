@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Clone dự án từ kho lưu trữ:
 
 ```bash
-git clone [<URL-kho-luu-tru>](https://github.com/thaisonhp/K-means-.git)
+git clone https://github.com/thaisonhp/K-means-.git
 ```
 ### Chạy main 
 
