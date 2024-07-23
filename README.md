@@ -8,7 +8,7 @@ Thuật toán K-means được test trên bộ dữ liệu Iris
 
 Để thiết lập môi trường phát triển cho dự án này, hãy làm theo các bước sau:
 
-### Requirment 
+### Install Requirment 
 ```bash 
 pip install -r requirements.txt
 ```
@@ -18,5 +18,10 @@ pip install -r requirements.txt
 Clone dự án từ kho lưu trữ:
 
 ```bash
-git clone <URL-kho-luu-tru>
-cd <ten-thu-muc-du-an>
+git clone [<URL-kho-luu-tru>](https://github.com/thaisonhp/K-means-.git)
+```
+### Chạy main 
+
+```bash
+python3 main.py
+```
